@@ -1,4 +1,6 @@
-# silvie-uas
+# UAS LAB PBK
+# NAMA : SILVIE AMANDA 
+# NPM  : 213510091
 
 ## Project setup
 ```
